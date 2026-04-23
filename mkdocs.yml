@@ -1,0 +1,127 @@
+site_name: XPLR Whitepaper
+site_description: The world's first comprehensive NFT trading platform based on algorithmic trading
+site_url: https://xplr-docs.github.io/
+repo_url: https://github.com/xplr-docs/xplr-whitepaper
+repo_name: xplr-whitepaper
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Welcome:
+    - XPLR: welcome/xplr/README.md
+    - Introduction: welcome/xplr/introduction.md
+    - Background: welcome/xplr/background.md
+  - Core Concept:
+    - Overview: core-concept/README.md
+    - Platform Introduction:
+      - Overview: core-concept/xplr-platform-introduction/README.md
+      - Innovative Algorithmic Trading Model: core-concept/xplr-platform-introduction/innovative-algorithmic-trading-model.md
+      - Automatic Pricing: core-concept/xplr-platform-introduction/automatic-pricing.md
+      - Community Incentives: core-concept/xplr-platform-introduction/community-incentives.md
+    - Core Functions:
+      - Overview: core-concept/xplr-core-functions/README.md
+      - Transactions: core-concept/xplr-core-functions/transactions.md
+      - NFT Auction: core-concept/xplr-core-functions/nft-auction.md
+      - Combination Sale: core-concept/xplr-core-functions/combination-sale.md
+      - Minting: core-concept/xplr-core-functions/minting.md
+      - FNFT: core-concept/xplr-core-functions/fnft.md
+    - Mechanism Description:
+      - Overview: core-concept/xplr-mechanism-description/README.md
+      - Trading Reward: core-concept/xplr-mechanism-description/trading-reward.md
+      - Referral Reward: core-concept/xplr-mechanism-description/referral-reward.md
+    - Core Features:
+      - Overview: core-concept/xplr-core-features/README.md
+      - Assets Integrated Trading Platform: core-concept/xplr-core-features/assets-integrated.md
+      - Multi-chain NFT Ecosystem: core-concept/xplr-core-features/multi-chain.md
+      - Multiple Types of NFT Assets: core-concept/xplr-core-features/multiple-types.md
+    - System Architecture:
+      - Overview: core-concept/system-architecture/README.md
+      - Core Architecture: core-concept/system-architecture/core-architecture.md
+      - System Features: core-concept/system-architecture/system-features.md
+      - Security System: core-concept/system-architecture/security-system.md
+  - XPLR DAO:
+    - Overview: xplr-dao/README.md
+    - XPLR DAO:
+      - Overview: xplr-dao/xplr-dao/README.md
+      - Future Expansion: xplr-dao/xplr-dao/future-expansion.md
+      - Roadmap: xplr-dao/xplr-dao/roadmap.md
+      - Disclaimer: xplr-dao/xplr-dao/disclaimer.md
+  - FAQ:
+    - Overview: faq/README.md
+    - How to Use: faq/how-to-use/README.md
+    - Instruction Manual:
+      - Overview: faq/instruction-manual/README.md
+      - How to Participate: faq/instruction-manual/how-to-participate.md
+      - User Identity: faq/instruction-manual/user-identity.md
+      - Getting Points: faq/instruction-manual/getting-points.md
+    - FAQ: faq/faq/README.md
+  - Links:
+    - Overview: link/README.md
+    - Website: link/website.md
+    - Medium: link/medium.md
+    - Twitter: link/twitter.md
