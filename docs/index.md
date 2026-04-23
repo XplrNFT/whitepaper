@@ -2,8 +2,6 @@
 
 ![XPLR Mascots](assets/images/xplr-mascot.jpg)
 
-![XPLR Characters](assets/images/characters.png)
-
 ## 🌟 The World's First Comprehensive NFT Trading Platform Based on Algorithmic Trading
 
 Welcome to XPLR, a revolutionary NFT trading platform that combines innovative algorithmic trading with community-driven incentives.

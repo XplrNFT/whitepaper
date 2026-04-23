@@ -7,3 +7,5 @@ The NFT market has seen explosive growth, but it currently faces significant cha
 3. **High Entry Barriers**: High prices for premium NFTs prevent average users from participating.
 
 XPLR was created to solve these exact problems through its algorithmic trading model, bringing stability, liquidity, and accessibility to the NFT market.
+
+![XPLR Community](../../assets/images/characters.png)
