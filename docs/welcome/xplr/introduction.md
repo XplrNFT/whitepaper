@@ -103,4 +103,5 @@ Ready to learn more? Explore:
 
 ---
 
-*XPLR: Revolutionizing NFT Trading Through Algorithmic Innovation*
+Last updated April 2026.  
+Stay up to date on our [official website](http://x-explore.com/).

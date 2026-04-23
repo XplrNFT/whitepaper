@@ -1,4 +1,4 @@
-# XPLR Whitepaper
+# XPLR NFT Whitepaper
 
 ![XPLR Mascots](assets/images/xplr-mascot.jpg)
 
@@ -22,19 +22,13 @@ Welcome to XPLR, a revolutionary NFT trading platform that combines innovative a
 - **[System Architecture](core-concept/system-architecture/)** - Technical deep dive
 
 ### 🏛️ XPLR DAO
-- **[DAO Overview](xplr-dao/xplr-dao/)** - Community governance
 - **[Roadmap](xplr-dao/xplr-dao/roadmap.md)** - Future plans
 - **[Disclaimer](xplr-dao/xplr-dao/disclaimer.md)** - Important information
 
 ### ❓ Help & Support
-- **[FAQ](faq/faq/)** - Common questions answered
 - **[How to Use](faq/how-to-use/)** - Getting started guide
-- **[Instruction Manual](faq/instruction-manual/)** - Detailed tutorials
-
-### 🔗 Connect With Us
-- **[Website](link/website.md)** - Visit our site
-- **[Medium](link/medium.md)** - Read our blog
-- **[Twitter](link/twitter.md)** - Follow us
+- **[How to Participate](faq/instruction-manual/how-to-participate.md)** - Join the platform
+- **[Common Questions](faq/faq/)** - FAQ
 
 ---
 
@@ -92,9 +86,9 @@ This whitepaper contains comprehensive information about XPLR's architecture, me
 
 XPLR is built by and for our community. Whether you're a trader, collector, or developer, there's a place for you here.
 
-**Ready to get started?** Check out our [Getting Started Guide](faq/how-to-use/) or [User Manual](faq/instruction-manual/).
+**Ready to get started?** Check out our [Getting Started Guide](faq/how-to-use/) or [How to Participate](faq/instruction-manual/how-to-participate.md).
 
 ---
 
-*Last Updated: April 2026*
-*For the latest information, visit our [website](link/website.md) or follow us on [Twitter](link/twitter.md)*
+Last updated April 2026.  
+Stay up to date on our [official website](http://x-explore.com/).

@@ -181,16 +181,7 @@ Your feedback shapes our roadmap. We welcome community suggestions and actively 
 
 ---
 
-## 📞 Stay Updated
-
-Follow our progress and get the latest updates:
-
-- **Website**: https://xplr.io
-- **Twitter**: @xplr_nft
-- **Medium**: XPLR Blog
-- **Discord**: XPLR Community
-
 ---
 
-*Last Updated: April 2026*
-*Roadmap subject to change based on market conditions and community feedback*
+Last updated April 2026.  
+Stay up to date on our [official website](http://x-explore.com/).
