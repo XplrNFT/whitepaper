@@ -1,4 +1,4 @@
-site_name: XPLR Whitepaper
+site_name: XPLR NFT
 site_description: The world's first comprehensive NFT trading platform based on algorithmic trading
 site_url: https://xplr-docs.github.io/
 repo_url: https://github.com/xplr-docs/xplr-whitepaper
@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  logo: assets/images/xplr-logo.png
+  logo: assets/images/xplr-logo-new.png
   favicon: assets/favicon.ico
   palette:
     - scheme: default
@@ -111,7 +111,4 @@ nav:
       - User Identity: faq/instruction-manual/user-identity.md
       - Getting Points: faq/instruction-manual/getting-points.md
     - FAQ: faq/faq/README.md
-  - Links:
-    - Website: link/website.md
-    - Medium: link/medium.md
-    - Twitter: link/twitter.md
+
