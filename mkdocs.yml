@@ -2,7 +2,6 @@ site_name: XPLR NFT
 site_description: The world's first comprehensive NFT trading platform based on algorithmic trading
 site_url: https://xplr-docs.github.io/
 repo_url: https://github.com/xplr-docs/xplr-whitepaper
-repo_name: xplr-whitepaper
 edit_uri: edit/main/docs/
 
 theme:
