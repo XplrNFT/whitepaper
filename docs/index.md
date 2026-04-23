@@ -15,11 +15,10 @@ Welcome to XPLR, a revolutionary NFT trading platform that combines innovative a
 - **[Background](welcome/xplr/background.md)** - Understand the problem we're solving
 
 ### 🏗️ Core Concepts
-- **[Platform Introduction](core-concept/xplr-platform-introduction/)** - Discover our innovative trading model
-- **[Core Functions](core-concept/xplr-core-functions/)** - Explore key features
-- **[Mechanism Description](core-concept/xplr-mechanism-description/)** - Understand reward systems
-- **[Core Features](core-concept/xplr-core-features/)** - See what makes us unique
-- **[System Architecture](core-concept/system-architecture/)** - Technical deep dive
+- **[Platform Introduction](core-concept/xplr-platform-introduction/innovative-algorithmic-trading-model.md)** - Discover our innovative trading model
+- **[Core Functions](core-concept/xplr-core-functions/transactions.md)** - Explore key features
+- **[Reward System](core-concept/xplr-mechanism-description/trading-reward.md)** - Understand reward systems
+- **[Features & Architecture](core-concept/system-architecture/core-architecture.md)** - Technical deep dive
 
 ### 🏛️ XPLR DAO
 - **[Roadmap](xplr-dao/xplr-dao/roadmap.md)** - Future plans
