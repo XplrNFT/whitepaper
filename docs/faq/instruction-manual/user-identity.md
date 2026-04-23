@@ -16,5 +16,4 @@ Different user levels have different daily reservation quotas and auction price 
 | User Level | LV1 | LV2 | LV3 | LV4 | LV5 | LV6 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Daily Reservations | 1 | 1 | 1 | 1 | 1 | 1 |
-| Auction Price Range | $1-300 | $300-1,000 | $1,000-2,000 | $2,000-5,000 | $5,000-10,000 | $10,000-50,000 |
-| Minting Permission | / | / | / | / | √ | √ |
+| Auction Price Range | $50-1,000 | $500-2,000 | $2,000-5,000 | $5,000-10,000 | $10,000-30,000 | $30,000-50,000 |
