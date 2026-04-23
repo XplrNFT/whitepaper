@@ -76,27 +76,10 @@ nav:
     - Introduction: welcome/xplr/introduction.md
     - Background: welcome/xplr/background.md
   - Core Concept:
-    - Platform Introduction:
-      - Innovative Algorithmic Trading Model: core-concept/xplr-platform-introduction/innovative-algorithmic-trading-model.md
-      - Automatic Pricing: core-concept/xplr-platform-introduction/automatic-pricing.md
-      - Community Incentives: core-concept/xplr-platform-introduction/community-incentives.md
-    - Core Functions:
-      - Transactions: core-concept/xplr-core-functions/transactions.md
-      - NFT Auction: core-concept/xplr-core-functions/nft-auction.md
-      - Combination Sale: core-concept/xplr-core-functions/combination-sale.md
-      - Minting: core-concept/xplr-core-functions/minting.md
-      - FNFT: core-concept/xplr-core-functions/fnft.md
-    - Mechanism Description:
-      - Trading Reward: core-concept/xplr-mechanism-description/trading-reward.md
-      - Referral Reward: core-concept/xplr-mechanism-description/referral-reward.md
-    - Core Features:
-      - Assets Integrated Trading Platform: core-concept/xplr-core-features/assets-integrated.md
-      - Multi-chain NFT Ecosystem: core-concept/xplr-core-features/multi-chain.md
-      - Multiple Types of NFT Assets: core-concept/xplr-core-features/multiple-types.md
-    - System Architecture:
-      - Core Architecture: core-concept/system-architecture/core-architecture.md
-      - System Features: core-concept/system-architecture/system-features.md
-      - Security System: core-concept/system-architecture/security-system.md
+    - Platform Introduction: core-concept/xplr-platform-introduction/innovative-algorithmic-trading-model.md
+    - Core Functions: core-concept/xplr-core-functions/transactions.md
+    - Reward System: core-concept/xplr-mechanism-description/trading-reward.md
+    - Features & Architecture: core-concept/system-architecture/core-architecture.md
   - XPLR DAO:
     - Future Expansion: xplr-dao/xplr-dao/future-expansion.md
     - Roadmap: xplr-dao/xplr-dao/roadmap.md

@@ -92,16 +92,5 @@ Seller ↑
 
 ---
 
-## Next Steps
-
-Ready to learn more? Explore:
-
-- **[Platform Introduction](../core-concept/xplr-platform-introduction/)** - Deep dive into how we work
-- **[Core Functions](../core-concept/xplr-core-functions/)** - All available features
-- **[Getting Started](../faq/instruction-manual/how-to-participate.md)** - Join the platform
-- **[Reward System](../core-concept/xplr-mechanism-description/)** - How to earn
-
----
-
 Last updated April 2026.  
 Stay up to date on our [official website](http://x-explore.com/).
