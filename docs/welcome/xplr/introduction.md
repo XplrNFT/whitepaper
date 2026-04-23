@@ -1,6 +1,6 @@
 # Introduction to XPLR
 
-![XPLR Mascots](../../assets/images/xplr-mascot.jpg)
+![XPLR Welcome](../../assets/images/welcome-banner.jpg)
 
 ## What is XPLR?
 
