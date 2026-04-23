@@ -73,7 +73,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Welcome:
-    - XPLR: welcome/xplr/README.md
     - Introduction: welcome/xplr/introduction.md
     - Background: welcome/xplr/background.md
   - Core Concept:
@@ -99,16 +98,13 @@ nav:
       - System Features: core-concept/system-architecture/system-features.md
       - Security System: core-concept/system-architecture/security-system.md
   - XPLR DAO:
-    - XPLR DAO:
-      - Overview: xplr-dao/xplr-dao/README.md
-      - Future Expansion: xplr-dao/xplr-dao/future-expansion.md
-      - Roadmap: xplr-dao/xplr-dao/roadmap.md
-      - Disclaimer: xplr-dao/xplr-dao/disclaimer.md
+    - Future Expansion: xplr-dao/xplr-dao/future-expansion.md
+    - Roadmap: xplr-dao/xplr-dao/roadmap.md
+    - Disclaimer: xplr-dao/xplr-dao/disclaimer.md
   - FAQ:
     - How to Use: faq/how-to-use/README.md
-    - Instruction Manual:
-      - How to Participate: faq/instruction-manual/how-to-participate.md
-      - User Identity: faq/instruction-manual/user-identity.md
-      - Getting Points: faq/instruction-manual/getting-points.md
-    - FAQ: faq/faq/README.md
+    - How to Participate: faq/instruction-manual/how-to-participate.md
+    - User Identity: faq/instruction-manual/user-identity.md
+    - Getting Points: faq/instruction-manual/getting-points.md
+    - Common Questions: faq/faq/README.md
 
